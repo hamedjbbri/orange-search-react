@@ -1,7 +1,7 @@
-import React, { Component }  from 'react'
-import { Link,BrowserRouter } from 'react-router-dom';
+import React, { Component }  from 'react';
+import { Link, BrowserRouter } from 'react-router-dom';
 
-import { Search } from './Search'
+import { Search } from './Search';
 
 export const Navbar = ({ darkTheme, setDarkTheme }) => {
     return (
